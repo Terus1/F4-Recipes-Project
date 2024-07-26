@@ -1,0 +1,33 @@
+.recipes-main-head {
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: cursive;
+}
+
+.help-text-recipe {
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.list-recipes {
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+}
+
+.rec-li {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.recipe-link {
+
+    font-family: cursive;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,32 @@
+.categories-main-head {
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: cursive;
+}
+
+.cat-li {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.category-link {
+    font-family: cursive;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.help-text-category {
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.list-categories {
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+}
